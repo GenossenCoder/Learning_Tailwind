@@ -13,6 +13,8 @@ module.exports = {
       'md': {'max': '770px'},
 
       'sm': {'max': '639px'},
+
+      'xs': {'max': '350'},
     },
     extend: {
 
